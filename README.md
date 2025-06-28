@@ -2,7 +2,7 @@
 
 This repository contains our silver medal-winning solution to the [Kaggle Stanford RNA 3D Structure Prediction Challenge](https://www.kaggle.com/competitions/stanford-ribonanza-rna-folding/overview). The objective was to predict the 3D structure of RNA molecules with high accuracy using deep learning and biophysical modeling techniques.
 
-> 🥈 **Silver Medal (Top 3%) | Team Score: 0.395 | Team Name: Umam Ali**
+> 🥈 **Silver Medal (Top 3%) | Team Score: 0.395 | Team Name: Mohammad Umam Ali**
 
 ---
 
